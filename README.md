@@ -1,11 +1,10 @@
 # Hypixel Resources
 
-### Missing
-
-#### Game Types
+#### Missing Game Types
 
 - MAIN
 - MAIN_LOBBY
+- TOURNAMENT
 - TOURNAMENT_LOBBY
 - QUEUE
 - IDLE
