@@ -23,7 +23,7 @@
     "SURVIVAL_GAMES": {
         "id": 5,
         "name": "Blitz SG",
-        "short_name": "BSG",
+        "short_name": "Blitz",
         "database_name": "HungerGames",
         "boosters": true
     },
@@ -44,7 +44,7 @@
     "WALLS3": {
         "id": 13,
         "name": "Mega Walls",
-        "short_name": "MW",
+        "short_name": "Mega Walls",
         "database_name": "Walls3",
         "boosters": true
     },
@@ -72,7 +72,7 @@
     "MCGO": {
         "id": 21,
         "name": "Cops and Crims",
-        "short_name": "CaC",
+        "short_name": "Cops and Crims",
         "database_name": "MCGO",
         "boosters": true
     },
@@ -184,7 +184,7 @@
     "PIT": {
         "id": 64,
         "name": "The Hypixel Pit",
-        "short_name": "Pit",
+        "short_name": "The Pit",
         "database_name": "Pit",
         "boosters": false
     }
