@@ -1,8 +1,8 @@
 # Hypixel Resources
 
-## Missing
+### Missing
 
-### Game Types
+#### Game Types
 
 - MAIN
 - MAIN_LOBBY
