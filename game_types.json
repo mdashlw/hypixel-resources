@@ -1,191 +1,191 @@
 {
-    "QUAKECRAFT": {
-        "id": 2,
-        "name": "Quakecraft",
-        "short_name": "Quake",
-        "database_name": "Quake",
-        "boosters": false
-    },
-    "WALLS": {
-        "id": 3,
-        "name": "The Walls",
-        "short_name": "Walls",
-        "database_name": "Walls",
-        "boosters": false
-    },
-    "PAINTBALL": {
-        "id": 4,
-        "name": "Paintball Warfare",
-        "short_name": "Paintball",
-        "database_name": "Paintball",
-        "boosters": false
-    },
-    "SURVIVAL_GAMES": {
-        "id": 5,
-        "name": "Blitz SG",
-        "short_name": "Blitz",
-        "database_name": "HungerGames",
-        "boosters": true
-    },
-    "TNTGAMES": {
-        "id": 6,
-        "name": "The TNT Games",
-        "short_name": "TNT Games",
-        "database_name": "TNTGames",
-        "boosters": true
-    },
-    "VAMPIREZ": {
-        "id": 7,
-        "name": "VampireZ",
-        "short_name": "VampireZ",
-        "database_name": "VampireZ",
-        "boosters": false
-    },
-    "WALLS3": {
-        "id": 13,
-        "name": "Mega Walls",
-        "short_name": "Mega Walls",
-        "database_name": "Walls3",
-        "boosters": true
-    },
-    "ARCADE": {
-        "id": 14,
-        "name": "Arcade Games",
-        "short_name": "Arcade",
-        "database_name": "Arcade",
-        "boosters": true
-    },
-    "ARENA": {
-        "id": 17,
-        "name": "Arena Brawl",
-        "short_name": "Arena",
-        "database_name": "Arena",
-        "boosters": false
-    },
-    "UHC": {
-        "id": 20,
-        "name": "UHC Champions",
-        "short_name": "UHC",
-        "database_name": "UHC",
-        "boosters": true
-    },
-    "MCGO": {
-        "id": 21,
-        "name": "Cops and Crims",
-        "short_name": "Cops and Crims",
-        "database_name": "MCGO",
-        "boosters": true
-    },
-    "BATTLEGROUND": {
-        "id": 23,
-        "name": "Warlords",
-        "short_name": "Warlords",
-        "database_name": "Battleground",
-        "boosters": true
-    },
-    "SUPER_SMASH": {
-        "id": 24,
-        "name": "Smash Heroes",
-        "short_name": "Smash Heroes",
-        "database_name": "SuperSmash",
-        "boosters": true
-    },
-    "GINGERBREAD": {
-        "id": 25,
-        "name": "Turbo Kart Racers",
-        "short_name": "TKR",
-        "database_name": "GingerBread",
-        "boosters": false
-    },
-    "HOUSING": {
-        "id": 26,
-        "name": "Housing",
-        "short_name": "Housing",
-        "database_name": "Housing",
-        "boosters": false
-    },
-    "SKYWARS": {
-        "id": 51,
-        "name": "SkyWars",
-        "short_name": "SkyWars",
-        "database_name": "SkyWars",
-        "boosters": true
-    },
-    "TRUE_COMBAT": {
-        "id": 52,
-        "name": "Crazy Walls",
-        "short_name": "Crazy Walls",
-        "database_name": "TrueCombat",
-        "boosters": true
-    },
-    "SPEED_UHC": {
-        "id": 54,
-        "name": "Speed UHC",
-        "short_name": "Speed UHC",
-        "database_name": "SpeedUHC",
-        "boosters": true
-    },
-    "SKYCLASH": {
-        "id": 55,
-        "name": "SkyClash",
-        "short_name": "SkyClash",
-        "database_name": "SkyClash",
-        "boosters": true
-    },
-    "LEGACY": {
-        "id": 56,
-        "name": "Classic Games",
-        "short_name": "Classic",
-        "database_name": "Legacy",
-        "boosters": true
-    },
-    "PROTOTYPE": {
-        "id": 57,
-        "name": "Prototype",
-        "short_name": "Prototype",
-        "database_name": "Prototype",
-        "boosters": false
-    },
-    "BEDWARS": {
-        "id": 58,
-        "name": "Bed Wars",
-        "short_name": "Bed Wars",
-        "database_name": "Bedwars",
-        "boosters": false
-    },
-    "MURDER_MYSTERY": {
-        "id": 59,
-        "name": "Murder Mystery",
-        "short_name": "Murder Mystery",
-        "database_name": "MurderMystery",
-        "boosters": false
-    },
-    "BUILD_BATTLE": {
-        "id": 60,
-        "name": "Build Battle",
-        "short_name": "Build Battle",
-        "database_name": "BuildBattle",
-        "boosters": false
-    },
-    "DUELS": {
-        "id": 61,
-        "name": "Duels",
-        "short_name": "Duels",
-        "database_name": "Duels",
-        "boosters": false
-    },
-    "SKYBLOCK": {
-        "id": 63,
-        "name": "SkyBlock",
-        "short_name": "SkyBlock",
-        "database_name": "SkyBlock",
-        "boosters": false
-    },
-    "PIT": {
-        "id": 64,
-        "name": "The Hypixel Pit",
-        "short_name": "The Pit",
-        "database_name": "Pit",
-        "boosters": false
-    }
+  "QUAKECRAFT": {
+    "id": 2,
+    "name": "Quakecraft",
+    "short_name": "Quake",
+    "database_name": "Quake",
+    "boosters": false
+  },
+  "WALLS": {
+    "id": 3,
+    "name": "The Walls",
+    "short_name": "Walls",
+    "database_name": "Walls",
+    "boosters": false
+  },
+  "PAINTBALL": {
+    "id": 4,
+    "name": "Paintball Warfare",
+    "short_name": "Paintball",
+    "database_name": "Paintball",
+    "boosters": false
+  },
+  "SURVIVAL_GAMES": {
+    "id": 5,
+    "name": "Blitz SG",
+    "short_name": "Blitz",
+    "database_name": "HungerGames",
+    "boosters": true
+  },
+  "TNTGAMES": {
+    "id": 6,
+    "name": "The TNT Games",
+    "short_name": "TNT Games",
+    "database_name": "TNTGames",
+    "boosters": true
+  },
+  "VAMPIREZ": {
+    "id": 7,
+    "name": "VampireZ",
+    "short_name": "VampireZ",
+    "database_name": "VampireZ",
+    "boosters": false
+  },
+  "WALLS3": {
+    "id": 13,
+    "name": "Mega Walls",
+    "short_name": "Mega Walls",
+    "database_name": "Walls3",
+    "boosters": true
+  },
+  "ARCADE": {
+    "id": 14,
+    "name": "Arcade Games",
+    "short_name": "Arcade",
+    "database_name": "Arcade",
+    "boosters": true
+  },
+  "ARENA": {
+    "id": 17,
+    "name": "Arena Brawl",
+    "short_name": "Arena",
+    "database_name": "Arena",
+    "boosters": false
+  },
+  "UHC": {
+    "id": 20,
+    "name": "UHC Champions",
+    "short_name": "UHC",
+    "database_name": "UHC",
+    "boosters": true
+  },
+  "MCGO": {
+    "id": 21,
+    "name": "Cops and Crims",
+    "short_name": "Cops and Crims",
+    "database_name": "MCGO",
+    "boosters": true
+  },
+  "BATTLEGROUND": {
+    "id": 23,
+    "name": "Warlords",
+    "short_name": "Warlords",
+    "database_name": "Battleground",
+    "boosters": true
+  },
+  "SUPER_SMASH": {
+    "id": 24,
+    "name": "Smash Heroes",
+    "short_name": "Smash Heroes",
+    "database_name": "SuperSmash",
+    "boosters": true
+  },
+  "GINGERBREAD": {
+    "id": 25,
+    "name": "Turbo Kart Racers",
+    "short_name": "TKR",
+    "database_name": "GingerBread",
+    "boosters": false
+  },
+  "HOUSING": {
+    "id": 26,
+    "name": "Housing",
+    "short_name": "Housing",
+    "database_name": "Housing",
+    "boosters": false
+  },
+  "SKYWARS": {
+    "id": 51,
+    "name": "SkyWars",
+    "short_name": "SkyWars",
+    "database_name": "SkyWars",
+    "boosters": true
+  },
+  "TRUE_COMBAT": {
+    "id": 52,
+    "name": "Crazy Walls",
+    "short_name": "Crazy Walls",
+    "database_name": "TrueCombat",
+    "boosters": true
+  },
+  "SPEED_UHC": {
+    "id": 54,
+    "name": "Speed UHC",
+    "short_name": "Speed UHC",
+    "database_name": "SpeedUHC",
+    "boosters": true
+  },
+  "SKYCLASH": {
+    "id": 55,
+    "name": "SkyClash",
+    "short_name": "SkyClash",
+    "database_name": "SkyClash",
+    "boosters": true
+  },
+  "LEGACY": {
+    "id": 56,
+    "name": "Classic Games",
+    "short_name": "Classic",
+    "database_name": "Legacy",
+    "boosters": true
+  },
+  "PROTOTYPE": {
+    "id": 57,
+    "name": "Prototype",
+    "short_name": "Prototype",
+    "database_name": "Prototype",
+    "boosters": false
+  },
+  "BEDWARS": {
+    "id": 58,
+    "name": "Bed Wars",
+    "short_name": "Bed Wars",
+    "database_name": "Bedwars",
+    "boosters": false
+  },
+  "MURDER_MYSTERY": {
+    "id": 59,
+    "name": "Murder Mystery",
+    "short_name": "Murder Mystery",
+    "database_name": "MurderMystery",
+    "boosters": false
+  },
+  "BUILD_BATTLE": {
+    "id": 60,
+    "name": "Build Battle",
+    "short_name": "Build Battle",
+    "database_name": "BuildBattle",
+    "boosters": false
+  },
+  "DUELS": {
+    "id": 61,
+    "name": "Duels",
+    "short_name": "Duels",
+    "database_name": "Duels",
+    "boosters": false
+  },
+  "SKYBLOCK": {
+    "id": 63,
+    "name": "SkyBlock",
+    "short_name": "SkyBlock",
+    "database_name": "SkyBlock",
+    "boosters": false
+  },
+  "PIT": {
+    "id": 64,
+    "name": "The Hypixel Pit",
+    "short_name": "The Pit",
+    "database_name": "Pit",
+    "boosters": false
+  }
 }

@@ -1,101 +1,101 @@
 {
-    "NORMAL": {
-        "id": 1,
-        "name": "DEFAULT",
-        "staff": false,
-        "clean_prefix": "",
-        "colored_prefix": "§7",
-        "color": "§7",
-        "eula_multiplier": 1
-    },
-    "VIP": {
-        "id": 2,
-        "name": "VIP",
-        "staff": false,
-        "clean_prefix": "[VIP] ",
-        "colored_prefix": "§a[VIP] ",
-        "color": "§a",
-        "eula_multiplier": 2
-    },
-    "VIP_PLUS": {
-        "id": 3,
-        "name": "VIP+",
-        "staff": false,
-        "clean_prefix": "[VIP+] ",
-        "colored_prefix": "§a[VIP§6+§a] ",
-        "color": "§a",
-        "eula_multiplier": 3
-    },
-    "MVP": {
-        "id": 4,
-        "name": "MVP",
-        "staff": false,
-        "clean_prefix": "[MVP] ",
-        "colored_prefix": "§b[MVP] ",
-        "color": "§b",
-        "eula_multiplier": 4
-    },
-    "MVP_PLUS": {
-        "id": 5,
-        "name": "MVP+",
-        "staff": false,
-        "clean_prefix": "[MVP+] ",
-        "colored_prefix": "§b[MVP$+§b] ",
-        "color": "§b",
-        "eula_multiplier": 5
-    },
-    "SUPERSTAR": {
-        "id": 6,
-        "name": "MVP++",
-        "staff": false,
-        "clean_prefix": "[MVP++] ",
-        "colored_prefix": "@[MVP$++@] ",
-        "color": "§6",
-        "eula_multiplier": 1
-    },
-    "YOUTUBER": {
-        "id": 60,
-        "name": "YOUTUBER",
-        "staff": false,
-        "clean_prefix": "[YOUTUBE] ",
-        "colored_prefix": "§c[§fYOUTUBE§c] ",
-        "color": "§c",
-        "eula_multiplier": 7
-    },
-    "JR_HELPER": {
-        "id": 70,
-        "name": "JR HELPER",
-        "staff": true,
-        "clean_prefix": "[JR HELPER] ",
-        "colored_prefix": "§9[JR HELPER] ",
-        "color": "§9",
-        "eula_multiplier": 1
-    },
-    "HELPER": {
-        "id": 80,
-        "name": "HELPER",
-        "staff": true,
-        "clean_prefix": "[HELPER] ",
-        "colored_prefix": "§9[HELPER] ",
-        "color": "§9",
-        "eula_multiplier": 1
-    },
-    "MODERATOR": {
-        "id": 90,
-        "name": "MODERATOR",
-        "staff": true,
-        "clean_prefix": "[MOD] ",
-        "colored_prefix": "§2[MOD] ",
-        "color": "§2",
-        "eula_multiplier": 1
-    },
-    "ADMIN": {
-        "id": 100,
-        "name": "ADMIN",
-        "staff": true,
-        "clean_prefix": "[ADMIN] ",
-        "colored_prefix": "§c[ADMIN] ",
-        "color": "§c",
-        "eula_multiplier": 1
-    }
+  "NORMAL": {
+    "id": 1,
+    "name": "DEFAULT",
+    "staff": false,
+    "clean_prefix": "",
+    "colored_prefix": "§7",
+    "color": "§7",
+    "eula_multiplier": 1
+  },
+  "VIP": {
+    "id": 2,
+    "name": "VIP",
+    "staff": false,
+    "clean_prefix": "[VIP] ",
+    "colored_prefix": "§a[VIP] ",
+    "color": "§a",
+    "eula_multiplier": 2
+  },
+  "VIP_PLUS": {
+    "id": 3,
+    "name": "VIP+",
+    "staff": false,
+    "clean_prefix": "[VIP+] ",
+    "colored_prefix": "§a[VIP§6+§a] ",
+    "color": "§a",
+    "eula_multiplier": 3
+  },
+  "MVP": {
+    "id": 4,
+    "name": "MVP",
+    "staff": false,
+    "clean_prefix": "[MVP] ",
+    "colored_prefix": "§b[MVP] ",
+    "color": "§b",
+    "eula_multiplier": 4
+  },
+  "MVP_PLUS": {
+    "id": 5,
+    "name": "MVP+",
+    "staff": false,
+    "clean_prefix": "[MVP+] ",
+    "colored_prefix": "§b[MVP$+§b] ",
+    "color": "§b",
+    "eula_multiplier": 5
+  },
+  "SUPERSTAR": {
+    "id": 6,
+    "name": "MVP++",
+    "staff": false,
+    "clean_prefix": "[MVP++] ",
+    "colored_prefix": "@[MVP$++@] ",
+    "color": "§6",
+    "eula_multiplier": 1
+  },
+  "YOUTUBER": {
+    "id": 60,
+    "name": "YOUTUBER",
+    "staff": false,
+    "clean_prefix": "[YOUTUBE] ",
+    "colored_prefix": "§c[§fYOUTUBE§c] ",
+    "color": "§c",
+    "eula_multiplier": 7
+  },
+  "JR_HELPER": {
+    "id": 70,
+    "name": "JR HELPER",
+    "staff": true,
+    "clean_prefix": "[JR HELPER] ",
+    "colored_prefix": "§9[JR HELPER] ",
+    "color": "§9",
+    "eula_multiplier": 1
+  },
+  "HELPER": {
+    "id": 80,
+    "name": "HELPER",
+    "staff": true,
+    "clean_prefix": "[HELPER] ",
+    "colored_prefix": "§9[HELPER] ",
+    "color": "§9",
+    "eula_multiplier": 1
+  },
+  "MODERATOR": {
+    "id": 90,
+    "name": "MODERATOR",
+    "staff": true,
+    "clean_prefix": "[MOD] ",
+    "colored_prefix": "§2[MOD] ",
+    "color": "§2",
+    "eula_multiplier": 1
+  },
+  "ADMIN": {
+    "id": 100,
+    "name": "ADMIN",
+    "staff": true,
+    "clean_prefix": "[ADMIN] ",
+    "colored_prefix": "§c[ADMIN] ",
+    "color": "§c",
+    "eula_multiplier": 1
+  }
 }
