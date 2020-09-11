@@ -1,0 +1,82 @@
+{
+  "BLACK": {
+    "code": "§0",
+    "foreground": "000000",
+    "background": "000000"
+  },
+  "DARK_BLUE": {
+    "code": "§1",
+    "foreground": "0000AA",
+    "background": "00002A"
+  },
+  "DARK_GREEN": {
+    "code": "§2",
+    "foreground": "00AA00",
+    "background": "002A00"
+  },
+  "DARK_AQUA": {
+    "code": "§3",
+    "foreground": "00AAAA",
+    "background": "002A2A"
+  },
+  "DARK_RED": {
+    "code": "§4",
+    "foreground": "AA0000",
+    "background": "2A0000"
+  },
+  "DARK_PURPLE": {
+    "code": "§5",
+    "foreground": "AA00AA",
+    "background": "2A002A"
+  },
+  "GOLD": {
+    "code": "§6",
+    "foreground": "FFAA00",
+    "background": "2A2A00"
+  },
+  "GRAY": {
+    "code": "§7",
+    "foreground": "AAAAAA",
+    "background": "2A2A2A"
+  },
+  "DARK_GRAY": {
+    "code": "§8",
+    "foreground": "555555",
+    "background": "151515"
+  },
+  "BLUE": {
+    "code": "§9",
+    "foreground": "5555FF",
+    "background": "15153F"
+  },
+  "GREEN": {
+    "code": "§a",
+    "foreground": "55FF55",
+    "background": "153F15"
+  },
+  "AQUA": {
+    "code": "§b",
+    "foreground": "55FFFF",
+    "background": "153F3F"
+  },
+  "RED": {
+    "code": "§c",
+    "foreground": "FF5555",
+    "background": "3F1515"
+  },
+  "LIGHT_PURPLE": {
+    "code": "§d",
+    "foreground": "FF55FF",
+    "background": "3F153F"
+  },
+  "YELLOW": {
+    "code": "§e",
+    "foreground": "FFFF55",
+    "background": "3F3F15"
+  },
+  "WHITE": {
+    "code": "§f",
+    "foreground": "FFFFFF",
+    "background": "3F3F3F"
+  }
+}
