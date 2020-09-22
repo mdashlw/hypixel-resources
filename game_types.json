@@ -1,191 +1,233 @@
 {
+  "MAIN_LOBBY": {
+    "id": -1,
+    "name": "Main Lobby",
+    "short_name": "Main Lobby",
+    "database_name": "",
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
+  },
+  "TOURNAMENT_LOBBY": {
+    "id": -1,
+    "name": "Tournament Hall",
+    "short_name": "Tournament Hall",
+    "database_name": "",
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
+  },
+  "LIMBO": {
+    "id": -1,
+    "name": "Limbo",
+    "short_name": "Limbo",
+    "database_name": "",
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
+  },
+  "IDLE": {
+    "id": -1,
+    "name": "AFK",
+    "short_name": "AFK",
+    "database_name": "",
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
+  },
+  "QUEUE": {
+    "id": -1,
+    "name": "Queue",
+    "short_name": "Queue",
+    "database_name": "",
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
+  },
   "QUAKECRAFT": {
     "id": 2,
     "name": "Quakecraft",
     "short_name": "Quake",
     "database_name": "Quake",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Quakecraft-64.png"
   },
   "WALLS": {
     "id": 3,
     "name": "The Walls",
     "short_name": "Walls",
     "database_name": "Walls",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Walls-64.png"
   },
   "PAINTBALL": {
     "id": 4,
     "name": "Paintball Warfare",
     "short_name": "Paintball",
     "database_name": "Paintball",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Paintball-64.png"
   },
   "SURVIVAL_GAMES": {
     "id": 5,
     "name": "Blitz SG",
     "short_name": "Blitz",
     "database_name": "HungerGames",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/SG-64.png"
   },
   "TNTGAMES": {
     "id": 6,
     "name": "The TNT Games",
     "short_name": "TNT Games",
     "database_name": "TNTGames",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/TNT-64.png"
   },
   "VAMPIREZ": {
     "id": 7,
     "name": "VampireZ",
     "short_name": "VampireZ",
     "database_name": "VampireZ",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/VampireZ-64.png"
   },
   "WALLS3": {
     "id": 13,
     "name": "Mega Walls",
     "short_name": "Mega Walls",
     "database_name": "Walls3",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/MegaWalls-64.png"
   },
   "ARCADE": {
     "id": 14,
     "name": "Arcade Games",
     "short_name": "Arcade",
     "database_name": "Arcade",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Arcade-64.png"
   },
   "ARENA": {
     "id": 17,
     "name": "Arena Brawl",
     "short_name": "Arena",
     "database_name": "Arena",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Arena-64.png"
   },
   "UHC": {
     "id": 20,
     "name": "UHC Champions",
     "short_name": "UHC",
     "database_name": "UHC",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/UHC-64.png"
   },
   "MCGO": {
     "id": 21,
     "name": "Cops and Crims",
     "short_name": "Cops and Crims",
     "database_name": "MCGO",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/CVC-64.png"
   },
   "BATTLEGROUND": {
     "id": 23,
     "name": "Warlords",
     "short_name": "Warlords",
     "database_name": "Battleground",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Warlords-64.png"
   },
   "SUPER_SMASH": {
     "id": 24,
     "name": "Smash Heroes",
     "short_name": "Smash Heroes",
     "database_name": "SuperSmash",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/SmashHeroes-64.png"
   },
   "GINGERBREAD": {
     "id": 25,
     "name": "Turbo Kart Racers",
     "short_name": "TKR",
     "database_name": "GingerBread",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/TurboKartRacers-64.png"
   },
   "HOUSING": {
     "id": 26,
     "name": "Housing",
     "short_name": "Housing",
     "database_name": "Housing",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Housing-64.png"
   },
   "SKYWARS": {
     "id": 51,
     "name": "SkyWars",
     "short_name": "SkyWars",
     "database_name": "SkyWars",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Skywars-64.png"
   },
   "TRUE_COMBAT": {
     "id": 52,
     "name": "Crazy Walls",
     "short_name": "Crazy Walls",
     "database_name": "TrueCombat",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/CrazyWalls-64.png"
   },
   "SPEED_UHC": {
     "id": 54,
     "name": "Speed UHC",
     "short_name": "Speed UHC",
     "database_name": "SpeedUHC",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/SpeedUHC-64.png"
   },
   "SKYCLASH": {
     "id": 55,
     "name": "SkyClash",
     "short_name": "SkyClash",
     "database_name": "SkyClash",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/SkyClash-64.png"
   },
   "LEGACY": {
     "id": 56,
     "name": "Classic Games",
-    "short_name": "Classic",
+    "short_name": "Classic Games",
     "database_name": "Legacy",
-    "boosters": true
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/ClassicLobby-64.png"
   },
   "PROTOTYPE": {
     "id": 57,
     "name": "Prototype",
     "short_name": "Prototype",
     "database_name": "Prototype",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Prototype-64.png"
   },
   "BEDWARS": {
     "id": 58,
     "name": "Bed Wars",
     "short_name": "Bed Wars",
     "database_name": "Bedwars",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/BedWars-64.png"
   },
   "MURDER_MYSTERY": {
     "id": 59,
     "name": "Murder Mystery",
     "short_name": "Murder Mystery",
     "database_name": "MurderMystery",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/MurderMystery-64.png"
   },
   "BUILD_BATTLE": {
     "id": 60,
     "name": "Build Battle",
     "short_name": "Build Battle",
     "database_name": "BuildBattle",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/BuildBattle-64.png"
   },
   "DUELS": {
     "id": 61,
     "name": "Duels",
     "short_name": "Duels",
     "database_name": "Duels",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Duels-64.png"
   },
   "SKYBLOCK": {
     "id": 63,
     "name": "SkyBlock",
     "short_name": "SkyBlock",
     "database_name": "SkyBlock",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/SkyBlock-64.png"
   },
   "PIT": {
     "id": 64,
     "name": "The Hypixel Pit",
     "short_name": "The Pit",
     "database_name": "Pit",
-    "boosters": false
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Pit-64.png"
+  },
+  "REPLAY": {
+    "id": -1,
+    "name": "Replay",
+    "short_name": "Replay",
+    "database_name": "",
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
   }
 }
