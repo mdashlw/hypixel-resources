@@ -6,7 +6,21 @@
     "database_name": "",
     "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
   },
+  "MAIN": {
+    "id": -1,
+    "name": "Main Lobby",
+    "short_name": "Main Lobby",
+    "database_name": "",
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
+  },
   "TOURNAMENT_LOBBY": {
+    "id": -1,
+    "name": "Tournament Hall",
+    "short_name": "Tournament Hall",
+    "database_name": "",
+    "icon_url": "https://hypixel.net/styles/hypixel-v2/images/game-icons/Unanounced-64.png"
+  },
+  "TOURNAMENT": {
     "id": -1,
     "name": "Tournament Hall",
     "short_name": "Tournament Hall",
